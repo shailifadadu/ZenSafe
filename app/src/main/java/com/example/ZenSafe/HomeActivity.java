@@ -1,4 +1,4 @@
-package com.example.mycompanion;
+package com.example.ZenSafe;
 
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.cardview.widget.CardView;

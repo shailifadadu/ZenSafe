@@ -1,4 +1,4 @@
-package com.example.mycompanion;
+package com.example.ZenSafe;
 
 import android.content.ContentValues;
 import android.content.Context;
