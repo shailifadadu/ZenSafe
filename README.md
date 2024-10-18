@@ -39,6 +39,6 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="High Voltage" width="35" height="35">Visual Walkthrough</h2>
 
-|              Sign Up Screen               |              Login Screen              |             Home Screen              |             Map Screen             |
-| :---------------------------------------: | :------------------------------------: | :----------------------------------: | :--------------------------------: |
-| ![Sign Up Screen](screenshots/signup.png) | ![Login Screen](screenshots/login.png) | ![Home Screen](screenshots/home.png) | ![Map Screen](screenshots/map.png) |
+![SneakPeek](screenshots/ImgBlack.png)
+![SneakPeek](screenshots/ImgPurple.png)
+![SneakPeek](screenshots/ImgDarkBlue.png)
