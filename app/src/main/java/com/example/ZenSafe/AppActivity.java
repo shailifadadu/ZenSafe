@@ -20,7 +20,6 @@ public class AppActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_app);
-
         TextView loginRedirect = findViewById(R.id.login_redirect);
         user = findViewById(R.id.user);
         pass = findViewById(R.id.pass);
@@ -29,7 +28,6 @@ public class AppActivity extends AppCompatActivity {
         signup = findViewById(R.id.signup);
 
         DB = new DBHelper(this);
-
         signup.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
@@ -66,7 +64,6 @@ public class AppActivity extends AppCompatActivity {
                 }
             }
         });
-
         loginRedirect.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
