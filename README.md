@@ -34,7 +34,7 @@
 - **📍 Real-Time Location Sharing:** Share your current location directly through Google Maps.
 - **🎡 Interactive Carousel View:** Display safety tips and important information with a swipe.
 
-## 📸 Screenshots
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="High Voltage" width="35" height="35"> Screenshot</h2>
 
 |              Sign Up Screen               |              Login Screen              |             Home Screen              |             Map Screen             |
 | :---------------------------------------: | :------------------------------------: | :----------------------------------: | :--------------------------------: |
