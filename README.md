@@ -29,10 +29,13 @@
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="High Voltage" width="30" height="30"> Features</h2>
 
-- **🔐 Secure User Authentication:** Sign up and log in using an easy and secure process.
-- **🚨 One-Tap Safety Alert:** Quickly notify your trusted contacts when you feel unsafe.
-- **📍 Real-Time Location Sharing:** Share your current location directly through Google Maps.
-- **🎡 Interactive Carousel View:** Display safety tips and important information with a swipe.
+**🔐 Secure User Authentication:** Sign up and log in using an easy and secure process.
+
+**🚨 One-Tap Safety Alert:** Quickly notify your trusted contacts when you feel unsafe.
+
+**📍 Real-Time Location Sharing:** Share your current location directly through Google Maps.
+
+**🎡 Interactive Carousel View:** Display safety tips and important information with a swipe.
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="High Voltage" width="35" height="35"> Screenshot</h2>
 
