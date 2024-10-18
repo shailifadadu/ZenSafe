@@ -1,13 +1,10 @@
 package com.example.ZenSafe;
 
 import androidx.appcompat.app.AppCompatActivity;
-
 import android.content.Intent;
 import android.os.Bundle;
 import android.widget.ImageView;
-
 import android.os.Handler;
-
 public class MainActivity extends AppCompatActivity {
 
     @Override

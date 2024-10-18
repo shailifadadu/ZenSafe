@@ -19,7 +19,6 @@ import com.google.android.gms.maps.OnMapReadyCallback;
 import com.google.android.gms.maps.SupportMapFragment;
 import com.google.android.gms.maps.model.LatLng;
 import com.google.android.gms.maps.model.MarkerOptions;
-
 import static java.lang.String.valueOf;
 
 public class MapsActivity extends FragmentActivity implements OnMapReadyCallback {
@@ -30,7 +29,6 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
     private  final long MIN_TIME =1000;
     private final long MIN_DIST = 5;
     private LatLng latLng;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -84,7 +82,7 @@ public class MapsActivity extends FragmentActivity implements OnMapReadyCallback
                         phoneNumber =cursor.getString(3);
 
                     }
-                    //String phoneNumber = "7987106365";
+                    
                     SmsManager smsManager = SmsManager.getDefault();
                     StringBuffer smsBody = new StringBuffer();
                     //smsBody.append(Uri.parse(uri));
