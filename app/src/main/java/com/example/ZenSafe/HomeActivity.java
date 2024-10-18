@@ -40,5 +40,4 @@ public class HomeActivity extends AppCompatActivity {
             imageView.setImageResource(sampleImages[position]);
         }
     };
-
 }
